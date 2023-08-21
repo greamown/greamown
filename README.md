@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Greamown's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=greamown&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/greamown/github-readme-stats#gh-dark-mode-only)
+![Will_Qiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=greamown&show_icons=true&bg_color=00000000)
