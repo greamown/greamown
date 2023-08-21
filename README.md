@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/greamown/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gremown" />
-</a>
-<a href="https://github.com/greamown/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greamown&layout=donut&card_width=320" />
-</a>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=greamown&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=greamown&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=greamown&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=greamown&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=greamown&theme=github)
+
+
+
