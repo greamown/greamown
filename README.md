@@ -1,4 +1,4 @@
-### Hi there, I'm Will Qiu👋
+### Hi, I'm Will Qiu👋
 
 - 🌱 I’m currently learning Deep learning and coding skill.
 
