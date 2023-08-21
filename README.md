@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Will_Qiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=greamown&show_icons=true&bg_color=00000000)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greamown&layout=donut)](https://github.com/greamown/github-readme-stats)
+<a href="https://github.com/greamown/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gremown" />
+</a>
+<a href="https://github.com/greamown/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greamown&layout=donut" />
+</a>
