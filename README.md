@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <!-- programming tool icon -->
 <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,cmake,css,js,jquery,git,html,py,react,typescript" /><br>
-<img src="https://skillicons.dev/icons?i=arduino,vim,docker,kubernetes,github,matlab,nginx,stackoverflow" /><br>
-<img src="https://skillicons.dev/icons?i=discord,instagram,linkedin,linux,vscode" /><br>
+<img src="https://skillicons.dev/icons?i=arduino,vim,docker,anaconda,github,gitlab,matlab,opencv,nginx,stackoverflow" /><br>
+<img src="https://skillicons.dev/icons?i=discord,instagram,linkedin,linux,vscode,postman" /><br>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flask,fastapi,qt" /><br>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" /><br>
