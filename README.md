@@ -38,3 +38,4 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=discord,linkedin,linux,vscode,postman" /><br>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flask,fastapi,qt" /><br>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" /><br>
+<img src="https://skillicons.dev/icons?i=ubuntu,windows" /><br>
