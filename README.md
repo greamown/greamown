@@ -33,9 +33,11 @@ Here are some ideas to get you started:
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 <!-- programming tool icon -->
-<img src="https://skillicons.dev/icons?i=bash,npm,c,cpp,cs,cmake,css,js,jquery,git,html,py,react,typescript" /><br>
-<img src="https://skillicons.dev/icons?i=arduino,vim,docker,anaconda,github,gitlab,matlab,opencv,nginx,stackoverflow,notion" /><br>
-<img src="https://skillicons.dev/icons?i=discord,linkedin,linux,vscode,postman" /><br>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flask,fastapi,qt" /><br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" /><br>
-<img src="https://skillicons.dev/icons?i=ubuntu,windows" /><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py" /><br>
+<img src="https://skillicons.dev/icons?i=css,js,jquery,html,react,typescript" /><br>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,postgres,sqlite,mongodb,nginx,postman" /><br>
+<img src="https://skillicons.dev/icons?i=bash,vim,cmake,npm,git,github,gitlab" /><br>
+<img src="https://skillicons.dev/icons?i=arduino,docker,anaconda,vscode,matlab,opencv,qt" /><br>
+<img src="https://skillicons.dev/icons?i=discord,linkedin,stackoverflow,notion" /><br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /><br>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" /><br>
