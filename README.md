@@ -1,6 +1,6 @@
 ### Hi, I'm Will Qiu👋
 
-- 🌱 I’m currently learning Deep learning and coding skill.
+- 🌱 I’m currently learning deep learning and coding skill.
 
 <!--
 **greamown/greamown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
